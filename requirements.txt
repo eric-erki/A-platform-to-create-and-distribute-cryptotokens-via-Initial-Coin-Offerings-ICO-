@@ -2,7 +2,7 @@ django==1.11
 jinja2==2.9.6
 djangorestframework==3.6.3
 django-extensions==1.8.0
-ipython==6.1.0
+ipython==7.16.3
 web3==3.10.0
 gunicorn==19.7.1
 dj-database-url==0.4.2
